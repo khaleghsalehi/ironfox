@@ -4,7 +4,7 @@
 IronFox
 ==================
 
-https://innovera.ir
+Sponsored by: ***Safe Instrument*** (https://safeinst.com/) 
 
 IronFox is a real-time and high performance bot protection, that using Nginx as a reverse proxy. 
 With a stateless approach for request processing, simple architect and anomaly detection it is possible 
